@@ -15,7 +15,7 @@ WARNING:
 
 USE master;
 GO
-
+-- HERE 'GO' KEY WORD SEPARATE BATCHES WHEN WORKING WITH MULTIPLE SQL STATEMENTS
 -- Drop and recreate the 'DataWarehouse' database
 IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouse')
 BEGIN
