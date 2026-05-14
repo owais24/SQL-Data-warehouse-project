@@ -24,7 +24,7 @@ This project involves:
     Data Modeling: Developing fact and dimension tables optimized for analytical queries.
     Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/93ad82df-8b5a-4ca6-ae6b-f062ce9c1a87" />
+<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/93ad82df-8b5a-4ca6-ae6b-f062ce9c1a87" />
 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
     SQL Development
