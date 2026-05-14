@@ -97,37 +97,6 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 
-☕ Stay Connected
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-YouTube LinkedIn Website Newsletter PayPal Join
-
-All Courses and their materials are completely free, and all I ask is your support through subscribing, liking, and commenting on my channel. Your engagement means the world to me and It help the channel!
-
-    ✅ SQL Full Course: Course Link | Download Materials | GIT Repo
-
-    ✅ Tableau Full Course: Course Link | Download Materials | Public
-
-    ✅ SQL Data Warehouse Project: Course Link | Download Materials | GIT Repo
-
-    ✅ SQL Exploratory Data Analysis Project: Course Link | Download Materials | GIT Repo
-
-    ✅ SQL Advanced Data Analysis Project: Course Link | Download Materials | GIT Repo
-
-    ✅ Tableau Sales Project: Course Link | Download Materials | Public
-
-    ✅ Tableau HR Project: Course Link | Download Materials | Public
-
-    ✅ ChatGPT: Course Link | Download Materials
-
 🛡️ License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
-🌟 About Me
-
-Hi there! I'm Baraa Khatib Salkini, also known as Data With Baraa. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-YouTube LinkedIn Website Newsletter PayPal Join
