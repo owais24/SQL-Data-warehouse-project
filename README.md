@@ -25,8 +25,6 @@ This project involves:
     Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/02fa39a4-3f3b-4377-8400-a112799fd49e" />
-
-
 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
     SQL Development
